@@ -1,15 +1,11 @@
-<<<<<<< HEAD
-export default function Home() {
-  return (
-    <div>
-      <h1>Home</h1>
-=======
-import Image from "next/image";
+import React from 'react';
 
-export default function Home() {
+const Page = () => {
   return (
-    <div>
+    <div className="bg-slate-300">
        
     </div>
   );
-}
+};
+
+export default Page;
